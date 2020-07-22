@@ -1,0 +1,6 @@
+/* Layout untuk Smartphone */
+@media all and (max-width: 670px) {
+    .calculator{
+        padding-top: 150px;
+    }
+}
